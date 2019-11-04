@@ -2,7 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Dev Links is a linkedin clone which is designed specifically for software engineers. This was a group project between myself and three others; Bryan, Chris, and Rachel.
 
-Evulukwu:
 Dev Links features a Job wizard so employers can post jobs for potential candidates. I used Redux to pass employer inputs from the job wizard to the job listings page.
 
 
